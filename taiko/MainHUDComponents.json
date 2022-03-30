@@ -1,0 +1,66 @@
+[
+  {
+    "Type": "osu.Game.Skinning.LegacyScoreCounter, osu.Game, Version=2021.1120.0.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 0.96,
+      "y": 0.96
+    },
+    "Anchor": 33,
+    "Origin": 33,
+    "UsesFixedAnchor": false,
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Skinning.LegacyAccuracyCounter, osu.Game, Version=2021.1120.0.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 49.919983
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 0.6,
+      "y": 0.6
+    },
+    "Anchor": 33,
+    "Origin": 33,
+    "UsesFixedAnchor": false,
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Skinning.LegacyHealthDisplay, osu.Game, Version=2021.1120.0.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Anchor": 9,
+    "Origin": 9,
+    "UsesFixedAnchor": false,
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Screens.Play.HUD.DefaultComboCounter, osu.Game, Version=2021.1120.0.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 99.18143,
+      "y": -71.403534
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Anchor": 10,
+    "Origin": 18,
+    "UsesFixedAnchor": false,
+    "Children": []
+  }
+]
