@@ -1,0 +1,82 @@
+[
+  {
+    "Type": "osu.Game.Screens.Play.HUD.LegacyComboCounter, osu.Game, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 2.35318,
+      "y": -32.59259
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 0.68849933,
+      "y": 0.68849933
+    },
+    "Anchor": 20,
+    "Origin": 20,
+    "UsesFixedAnchor": false,
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Skinning.LegacyScoreCounter, osu.Game, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 0.96,
+      "y": 0.96
+    },
+    "Anchor": 33,
+    "Origin": 33,
+    "UsesFixedAnchor": false,
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Skinning.LegacyAccuracyCounter, osu.Game, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 49.919983
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 0.6,
+      "y": 0.6
+    },
+    "Anchor": 33,
+    "Origin": 33,
+    "UsesFixedAnchor": false,
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Skinning.LegacyHealthDisplay, osu.Game, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": -4.671112,
+      "y": -0.91741943
+    },
+    "Rotation": -90.0,
+    "Scale": {
+      "x": 1.0096394,
+      "y": 1.0096402
+    },
+    "Anchor": 12,
+    "Origin": 9,
+    "UsesFixedAnchor": false,
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Screens.Play.SongProgress, osu.Game, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 45.480957,
+      "y": -0.00667572
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 0.9361981,
+      "y": 1.0
+    },
+    "Anchor": 20,
+    "Origin": 20,
+    "UsesFixedAnchor": false,
+    "Children": []
+  }
+]
